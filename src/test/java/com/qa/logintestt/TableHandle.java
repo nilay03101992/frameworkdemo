@@ -18,6 +18,10 @@ public class TableHandle extends BaseClass {
 	public void setup() {
 		initilization();
 		dash=log.login(prop.getProperty("username"),prop.getProperty("password"));
+		
+		
+		
+		
 	}
   //@Test
  // public String verifyUserList () {
