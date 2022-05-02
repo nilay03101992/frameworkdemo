@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-28T11:42:52 IST" name="Default suite" finished-at="2022-04-28T11:43:05 IST" duration-ms="12962">
+    <groups>
+    </groups>
+    <test started-at="2022-04-28T11:42:52 IST" name="Default test" finished-at="2022-04-28T11:43:05 IST" duration-ms="12962">
+      <class name="com.qa.logintestt.DashBoardTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.logintestt.DashBoardTestCase@3514a4c0]" started-at="2022-04-28T11:42:52 IST" name="setup" finished-at="2022-04-28T11:42:56 IST" duration-ms="4449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySeleniumPage()[pri:1, instance:com.qa.logintestt.DashBoardTestCase@3514a4c0]" started-at="2022-04-28T11:42:56 IST" name="verifySeleniumPage" finished-at="2022-04-28T11:42:56 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySeleniumPage -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.logintestt.DashBoardTestCase@3514a4c0]" started-at="2022-04-28T11:42:56 IST" name="setup" finished-at="2022-04-28T11:43:01 IST" duration-ms="4180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyOperatorPage()[pri:2, instance:com.qa.logintestt.DashBoardTestCase@3514a4c0]" started-at="2022-04-28T11:43:01 IST" name="verifyOperatorPage" finished-at="2022-04-28T11:43:01 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOperatorPage -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.logintestt.DashBoardTestCase@3514a4c0]" started-at="2022-04-28T11:43:01 IST" name="setup" finished-at="2022-04-28T11:43:04 IST" duration-ms="3844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogoff()[pri:3, instance:com.qa.logintestt.DashBoardTestCase@3514a4c0]" started-at="2022-04-28T11:43:04 IST" name="verifyLogoff" finished-at="2022-04-28T11:43:05 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoff -->
+      </class> <!-- com.qa.logintestt.DashBoardTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
